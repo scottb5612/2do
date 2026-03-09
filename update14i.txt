@@ -1,0 +1,19 @@
+Comary with 16i
+    Verify Extensions for Chrome aganst 16i
+    Install Safari extensions
+    Set up ~/bin - what's installed on 16i esp python env
+    Where to install crgrep (see 16i)
+    What Java version did I install on 16i? From brew?
+    Tbird mailer filters to 14i (Can these be exported?)
+Lr:
+    Presets for JQJpeg, video and avid, look at 16i
+    LrC and PS plugins
+    All preferences for LrC
+    Should I sync Documents Desktop with iCloud (in preferences of Finder) I think not as it’s synced with Google Drive
+
+Dropbox setup for big t-bard attachments 
+
+
+Reformat Lavendel/Sparrow -> Data only drive. Replace with SSD
+
+Notabliity needs access to gdrive 14i
