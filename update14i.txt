@@ -1,6 +1,7 @@
 Comary with 16i
     Verify Extensions for Chrome aganst 16i
     Install Safari extensions
+    where install crgrep on 16i as there is no /usr/local/opt
     Set up ~/bin - what's installed on 16i esp python env
     Where to install crgrep (see 16i)
     What Java version did I install on 16i? From brew?
