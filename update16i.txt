@@ -1,4 +1,6 @@
 brew install eza
+     tweak font colors
+    code on https://github.com/eza-community/eza
 
 Add Badan module to git
 Install PR6

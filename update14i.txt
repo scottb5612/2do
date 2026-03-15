@@ -1,4 +1,4 @@
-Comary with 16i
+Compare with 16i
     Verify Extensions for Chrome aganst 16i
     Install Safari extensions
     where install crgrep on 16i as there is no /usr/local/opt
@@ -14,6 +14,7 @@ Lr:
 
 Dropbox setup for big t-bard attachments 
 
+tweak eza font color settings
 
 Reformat Lavendel/Sparrow -> Data only drive. Replace with SSD
 
