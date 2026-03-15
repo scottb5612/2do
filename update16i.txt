@@ -1,3 +1,5 @@
+brew install eza
+
 Add Badan module to git
 Install PR6
     Actv Code 0461-4956-7257-2963-6453
