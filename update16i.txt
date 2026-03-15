@@ -2,6 +2,8 @@ brew install eza
      tweak font colors
     code on https://github.com/eza-community/eza
 
+brew install zoxide
+
 Add Badan module to git
 Install PR6
     Actv Code 0461-4956-7257-2963-6453

@@ -18,4 +18,5 @@ tweak eza font color settings
 
 Reformat Lavendel/Sparrow -> Data only drive. Replace with SSD
 
-Notabliity needs access to gdrive 14i
+Notability needs access to gdrive 14i
+
