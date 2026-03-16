@@ -1,15 +1,17 @@
+Install python dropbox api: 
+    https://github.com/dropbox/dropbox-sdk-python.git
+Hostname business
+
+gpsm links to wrong code, or code wasn't updated in $py/Ph/gps.py, or ?
+
+DONE
 brew install eza
      tweak font colors
     code on https://github.com/eza-community/eza
 
 brew install zoxide
 
-Add Badan module to git
-Install PR6
+Installed PR6
     Actv Code 0461-4956-7257-2963-6453
-Update Araxis merge maintenance
-Install python dropbox api: 
-    https://github.com/dropbox/dropbox-sdk-python.git
-Hostname business
 
-gpsm links to wrong code, or code wasn't updated in $py/Ph/gps.py, or ?
+Updated Araxis merge maintenance
