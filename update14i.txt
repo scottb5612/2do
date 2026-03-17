@@ -1,16 +1,12 @@
 Compare with 16i
     Verify Extensions for Chrome aganst 16i
     Install Safari extensions
-    Install crgrep in /usrlocal/bin as there is no /usr/local/opt
     What Java version did I install on 16i? From brew?
-    Tbird mailer filters to 14i (Can these be exported?)
 Lr:
     Presets for JQJpeg, video and avid, look at 16i
     LrC and PS plugins
     All preferences for LrC
     Should I sync Documents Desktop with iCloud (in preferences of Finder) I think not as it’s synced with Google Drive
-
-Dropbox setup for big t-bird attachments 
 
 tweak eza font color settings
 
