@@ -2,7 +2,6 @@ Compare with 16i
     Verify Extensions for Chrome aganst 16i
     Install Safari extensions
     What Java version did I install on 16i? From brew?
-    Tbird mailer filters to 14i (Can these be exported?)
 Lr:
     Presets for JQJpeg, video and avid, look at 16i
     LrC and PS plugins
