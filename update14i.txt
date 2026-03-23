@@ -14,15 +14,13 @@ Reformat Lavendel/Sparrow -> Data only drive. Replace with SSD
 
 Notability needs access to gdrive 14i
 
-
 Install 
 mplayer http://www.mplayerhq.hu/design7/dload.html
 
 Boop
 
+Not sure so useful
 TinkerTool  clean, organized interface. to change macOS hidden settings via checkboxes & dropdown menus instead of cryptic defaults write commands.
-
-Snakepin: move files between 2  locations that are not visible on screen at the same time.
 
 Zettlr is a markdown editor built specifically for writers. Not for developers who happen to write.
 
