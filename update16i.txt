@@ -5,9 +5,11 @@ Hostname business
 gpsm links to wrong code, or code wasn't updated in $py/Ph/gps.py, or ?
 
 Install 
+
+
 mplayer http://www.mplayerhq.hu/design7/dload.html
 
-Boop
+?Boop
 
 
 TinkerTool  clean, organized interface. to change macOS hidden settings via checkboxes & dropdown menus instead of cryptic defaults write commands.
@@ -17,13 +19,6 @@ Zettlr is a markdown editor built specifically for writers. Not for developers w
 ---
 
 DONE
-brew install eza
-     tweak font colors
-    code on https://github.com/eza-community/eza
 
 brew install zoxide
-
-Installed PR6
-    Actv Code 0461-4956-7257-2963-6453
-
 
