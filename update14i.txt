@@ -1,3 +1,7 @@
+Problem with thunderbird:
+Error - Media on scottb5612@gmail.com
+The folder 'Media on scottb5612@gmail.com' could not be found, so filter (s) associated with this folder will be disabled. Verify that the folder exists, and that filters point to a valid destination folder.
+
 Compare with 16i
     Verify Extensions for Chrome aganst 16i
     Install Safari extensions
