@@ -28,8 +28,6 @@ TinkerTool  clean, organized interface. to change macOS hidden settings via chec
 
 Zettlr is a markdown editor built specifically for writers. Not for developers who happen to write.
 
-Pearcleaner: App cleaner script
-
 ---
 
 DONE
