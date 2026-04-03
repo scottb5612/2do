@@ -1,3 +1,11 @@
+Add TM exclusions
+
+tmutil addexclusion /Users/baden/Library/Containers/com.blackmagic-design.DiskSpeedTest/Data/Library/Caches
+
+These probaby doesn't exist any more, so remove from exclusions if so
+"/Users/baden/Library/Application Support/coreMLCache"
+"/Users/baden/Library/Application Support/Caches"
+
 Install python dropbox api: 
     https://github.com/dropbox/dropbox-sdk-python.git
 Hostname business
