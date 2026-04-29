@@ -1,0 +1,5 @@
+Poor dislay of pdf in MacOS
+Is it a pdflatex issue?
+
+https://community.adobe.com/questions-12/font-rendering-issue-in-adobe-reader-1506425
+https://duckduckgo.com/?q=pdflatex+embeded+fonts+macos&atb=v400-1&ia=web
