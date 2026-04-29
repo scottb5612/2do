@@ -1,3 +1,17 @@
+Add TM exclusions
+
+tmutil addexclusion /Users/baden/Library/Containers/com.blackmagic-design.DiskSpeedTest/Data/Library/Caches
+
+tmutil addexclusion /Users/baden/Library/Containers/com.apple.wallpaper.agent/Data/Library/Caches/com.apple.wallpaper.caches
+
+These probaby doesn't exist any more, so remove from exclusions if so
+"/Users/baden/Library/Application Support/coreMLCache"
+"/Users/baden/Library/Application Support/Caches"
+
+Watch the growth of 
+com.apple.mediaanalysisd
+https://osxdaily.com/2025/01/08/com-apple-mediaanalysisd-cache-mac-storage-bloat-fix/
+
 Install python dropbox api: 
     https://github.com/dropbox/dropbox-sdk-python.git
 Hostname business
