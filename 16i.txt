@@ -1,0 +1,48 @@
+Why am I getting the wrong icons when I mount a usb drive?
+How to fix them
+https://osxdaily.com/2014/07/27/mac-os-x-system-icons-location/
+https://eclecticlight.co/2023/03/04/custom-finder-icons-resources-and-mac-os-history/
+
+Why is the system name incorrect?
+MBPsomtorMonica
+
+Is this due to a 3rd party app?
+
+Add TM exclusions
+
+tmutil addexclusion /Users/baden/Library/Containers/com.blackmagic-design.DiskSpeedTest/Data/Library/Caches
+
+tmutil addexclusion /Users/baden/Library/Containers/com.apple.wallpaper.agent/Data/Library/Caches/com.apple.wallpaper.caches
+
+These probaby doesn't exist any more, so remove from exclusions if so
+"/Users/baden/Library/Application Support/coreMLCache"
+"/Users/baden/Library/Application Support/Caches"
+
+Watch the growth of 
+com.apple.mediaanalysisd
+https://osxdaily.com/2025/01/08/com-apple-mediaanalysisd-cache-mac-storage-bloat-fix/
+
+Install python dropbox api: 
+    https://github.com/dropbox/dropbox-sdk-python.git
+Hostname business
+
+gpsm links to wrong code, or code wasn't updated in $py/Ph/gps.py, or ?
+
+Install 
+
+
+mplayer http://www.mplayerhq.hu/design7/dload.html
+
+?Boop
+
+
+TinkerTool  clean, organized interface. to change macOS hidden settings via checkboxes & dropdown menus instead of cryptic defaults write commands.
+
+Zettlr is a markdown editor built specifically for writers. Not for developers who happen to write.
+
+---
+
+DONE
+
+brew install zoxide
+

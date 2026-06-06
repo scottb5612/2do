@@ -1,0 +1,43 @@
+Problem with thunderbird:
+Error - Media on scottb5612@gmail.com
+The folder 'Media on scottb5612@gmail.com' could not be found, so filter (s) associated with this folder will be disabled. Verify that the folder exists, and that filters point to a valid destination folder.
+
+Compare with 16i
+    Verify Extensions for Chrome aganst 16i
+    Install Safari extensions
+    What Java version did I install on 16i? From brew?
+Lr:
+    Presets for JQJpeg, video and avid, look at 16i
+    LrC and PS plugins
+    All preferences for LrC
+    Should I sync Documents Desktop with iCloud (in preferences of Finder) I think not as it’s synced with Google Drive
+
+tweak eza font color settings
+
+Reformat Lavendel/Sparrow -> Data only drive. Replace with SSD
+
+Notability needs access to gdrive 14i
+
+Install 
+mplayer http://www.mplayerhq.hu/design7/dload.html
+
+Boop
+
+Not sure so useful
+TinkerTool  clean, organized interface. to change macOS hidden settings via checkboxes & dropdown menus instead of cryptic defaults write commands.
+
+Zettlr is a markdown editor built specifically for writers. Not for developers who happen to write.
+
+---
+
+DONE
+brew install eza
+     tweak font colors
+    code on https://github.com/eza-community/eza
+
+brew install zoxide
+
+Installed PR6
+    Actv Code 0461-4956-7257-2963-6453
+
+
