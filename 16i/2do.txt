@@ -1,0 +1,10 @@
+Why am I getting the wrong icons when I mount a usb drive?
+How to fix them
+https://osxdaily.com/2014/07/27/mac-os-x-system-icons-location/
+https://eclecticlight.co/2023/03/04/custom-finder-icons-resources-and-mac-os-history/
+
+Why is the system name incorrect?
+MBPsomtorMonica
+
+Is this due to a 3rd party app?
+

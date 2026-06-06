@@ -1,20 +1,3 @@
-Reformat Lavendel/Sparrow -> Data only drive. Replace with SSD
-
-Problem with thunderbird:
-Error - Media on scottb5612@gmail.com
-The folder 'Media on scottb5612@gmail.com' could not be found, so filter (s) associated with this folder will be disabled. Verify that the folder exists, and that filters point to a valid destination folder.
-
-Compare with 16i
-    Verify Extensions for Chrome aganst 16i
-    Install Safari extensions
-    What Java version did I install on 16i? From brew?
-Lr:
-    Presets for JQJpeg, video and avid, look at 16i
-    LrC and PS plugins
-    All preferences for LrC
-    Should I sync Documents Desktop with iCloud (in preferences of Finder) I think not as it’s synced with Google Drive
-
-
 Install 
 mplayer http://www.mplayerhq.hu/design7/dload.html
 
