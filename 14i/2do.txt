@@ -1,5 +1,4 @@
-Problem with crgrep:
-
+Reformat Lavendel/Sparrow -> Data only drive. Replace with SSD
 Problem with thunderbird:
 Error - Media on scottb5612@gmail.com
 The folder 'Media on scottb5612@gmail.com' could not be found, so filter (s) associated with this folder will be disabled. Verify that the folder exists, and that filters point to a valid destination folder.
@@ -13,24 +12,5 @@ Lr:
     LrC and PS plugins
     All preferences for LrC
     Should I sync Documents Desktop with iCloud (in preferences of Finder) I think not as it’s synced with Google Drive
-
-Install mplayer 
-http://www.mplayerhq.hu/design7/dload.html
-
-Boop
-
-Not sure so useful
-TinkerTool  clean, organized interface. to change macOS hidden settings via checkboxes & dropdown menus instead of cryptic defaults write commands.
-
-Zettlr is a markdown editor built specifically for writers. Not for developers who happen to write.
-
----
-
-DONE
-
-brew install zoxide
-
-Installed PR6
-    Actv Code 0461-4956-7257-2963-6453
 
 

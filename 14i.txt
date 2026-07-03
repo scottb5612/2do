@@ -1,4 +1,4 @@
-Problem with crgrep:
+Reformat Lavendel/Sparrow -> Data only drive. Replace with SSD
 
 Problem with thunderbird:
 Error - Media on scottb5612@gmail.com
@@ -14,8 +14,9 @@ Lr:
     All preferences for LrC
     Should I sync Documents Desktop with iCloud (in preferences of Finder) I think not as it’s synced with Google Drive
 
-Install mplayer 
-http://www.mplayerhq.hu/design7/dload.html
+
+Install 
+mplayer http://www.mplayerhq.hu/design7/dload.html
 
 Boop
 
