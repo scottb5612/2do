@@ -14,12 +14,6 @@ Lr:
     All preferences for LrC
     Should I sync Documents Desktop with iCloud (in preferences of Finder) I think not as it’s synced with Google Drive
 
-tweak eza font color settings
-
-Reformat Lavendel/Sparrow -> Data only drive. Replace with SSD
-
-Notability needs access to gdrive 14i
-
 Install 
 mplayer http://www.mplayerhq.hu/design7/dload.html
 
